@@ -14,4 +14,25 @@ I don't dislike my solution.
 For scale I've included Jetbrain's svtk video and solution (she mentions the handy associate() / associateWith() / associateBy() and a firstNotNullOfOrNull {} shortcut)
 
 - https://www.youtube.com/watch?v=o4emra1xm88
-- https://github.com/kotlin-hands-on/advent-of-code-2020/tree/master/src/day1
+- https://github.com/kotlin-hands-on/advent-of-code-2020/tree/master/src/day1d
+
+### Day 2 Password Philosophy
+
+Using regex to validate passwords
+
+### Day 3 Tobogger Trajectory
+
+Using fold for counting the number of trees on given slopes
+
+### Day 4 Passport Processing
+
+puzzle about validating input
+
+### Day 5 Binary Boarding
+
+puzzle which basically solves itself once you can reframe it as a sorting situation.
+
+### Day 6 Custom Customs
+
+puzzle about unions and intersections.
+
