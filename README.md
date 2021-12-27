@@ -36,3 +36,6 @@ puzzle which basically solves itself once you can reframe it as a sorting situat
 
 puzzle about unions and intersections.
 
+### Day 7 Handy Haversacks
+
+puzzle about bags in bags in bags.
