@@ -39,3 +39,7 @@ puzzle about unions and intersections.
 ### Day 7 Handy Haversacks
 
 puzzle about bags in bags in bags.
+
+### Day 8 Handheld Halting
+
+fix the boot sequence of a game. another puzzle which solves itself once you figure out what you don't need to do.
