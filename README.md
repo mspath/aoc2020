@@ -43,3 +43,11 @@ puzzle about bags in bags in bags.
 ### Day 8 Handheld Halting
 
 fix the boot sequence of a game. another puzzle which solves itself once you figure out what you don't need to do.
+
+### Day 9 Encoding Error
+
+find out whether previous numbers add up or not.
+
+### Day 10 Adapter Array
+
+find combinations of adapters. 
