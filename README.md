@@ -51,3 +51,7 @@ find out whether previous numbers add up or not.
 ### Day 10 Adapter Array
 
 find combinations of adapters. 
+
+### Day 11 Seating System
+
+document the flow of people's strategy for taking a seat.
