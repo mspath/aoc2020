@@ -55,3 +55,12 @@ find combinations of adapters.
 ### Day 11 Seating System
 
 document the flow of people's strategy for taking a seat.
+
+### Day 12 Rain Risk
+
+navigate your ferry.
+
+### Day 13 Shuttle Search
+
+find the first bus in a schedule. (part I only)
+
