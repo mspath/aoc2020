@@ -64,3 +64,6 @@ navigate your ferry.
 
 find the first bus in a schedule. (part I only)
 
+### Day 14 Docking Data
+
+apply bit masks. (part I only)

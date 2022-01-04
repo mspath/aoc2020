@@ -22,6 +22,7 @@ fun Ship.turnRight(times: Int) {
         }
     }
 }
+
 fun Ship.turnLeft(times: Int) {
     (0 until times).forEach {
         when (this.direction) {
