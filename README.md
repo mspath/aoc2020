@@ -71,3 +71,7 @@ apply bit masks. (part I only)
 ### Day 15 Rambunctious Recitation
 
 play a memory game with elves.
+
+### Day 16 Ticket Translation
+
+deduce the meaning of a ticket.
