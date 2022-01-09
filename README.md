@@ -75,3 +75,7 @@ play a memory game with elves.
 ### Day 16 Ticket Translation
 
 deduce the meaning of a ticket.
+
+### Day 17 Conway Cubes
+
+a multidimensional game of life.
