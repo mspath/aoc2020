@@ -79,3 +79,7 @@ deduce the meaning of a ticket.
 ### Day 17 Conway Cubes
 
 a multidimensional game of life.
+
+### Day 22 Crab Combat
+
+battle a little crab.
