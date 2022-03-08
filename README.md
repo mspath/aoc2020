@@ -1,5 +1,4 @@
-Advent of Code 2020
-===================
+# Advent of Code 2020
 
 Just found out about the [Advent of Code 2020] a year late, still might be fun to give a shot timeshifted.
 
@@ -83,3 +82,14 @@ a multidimensional game of life.
 ### Day 22 Crab Combat
 
 battle a little crab.
+
+---
+
+Environment
+
+- Kotlin 1.6.10
+- Intellij 2021.3.2
+
+---
+
+updated: 2022-03-08
