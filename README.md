@@ -10,7 +10,7 @@ Just found out about the [Advent of Code 2020] a year late, still might be fun t
 
 I don't dislike my solution.
 
-For scale I've included Jetbrain's svtk video and solution (she mentions the handy associate() / associateWith() / associateBy() and a firstNotNullOfOrNull {} shortcut)
+For scale, I've included JetBrains's svtk video and solution (she mentions the handy associate() / associateWith() / associateBy() and a firstNotNullOfOrNull {} shortcut)
 
 - https://www.youtube.com/watch?v=o4emra1xm88
 - https://github.com/kotlin-hands-on/advent-of-code-2020/tree/master/src/day1d
@@ -87,9 +87,9 @@ battle a little crab.
 
 Environment
 
-- Kotlin 1.6.10
-- Intellij 2021.3.2
+- Kotlin 1.7.10
+- Intellij 2021.3.3
 
 ---
 
-updated: 2022-03-08
+updated: 2022-08-21

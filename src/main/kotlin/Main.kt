@@ -1,5 +1,5 @@
 
 
-fun main(args: Array<String>) {
+fun main() {
     day22.main()
 }
