@@ -1,5 +1,5 @@
 
 
 fun main() {
-    day22.main()
+    day1.main()
 }
