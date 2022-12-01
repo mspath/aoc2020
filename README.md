@@ -13,7 +13,7 @@ I don't dislike my solution.
 For scale, I've included JetBrains's svtk video and solution (she mentions the handy associate() / associateWith() / associateBy() and a firstNotNullOfOrNull {} shortcut)
 
 - https://www.youtube.com/watch?v=o4emra1xm88
-- https://github.com/kotlin-hands-on/advent-of-code-2020/tree/master/src/day1d
+- https://github.com/kotlin-hands-on/advent-of-code-2020/tree/master/src/day1
 
 ### Day 2 Password Philosophy
 
