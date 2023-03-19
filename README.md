@@ -1,6 +1,6 @@
 # Advent of Code 2020
 
-Just found out about [Advent of Code 2020] a year late, still might be fun to give a shot timeshifted.
+[Advent of Code 2020] timeshifted a year later in Kotlin.
 
 [Advent of Code 2020]:https://adventofcode.com/2020
 
@@ -87,8 +87,8 @@ battle a little crab.
 
 Environment
 
-- Kotlin 1.8.0
-- Intellij 2022.2.4
+- Kotlin 1.8.10
+- Intellij 2022.3.3
 
 ---
 
@@ -96,5 +96,5 @@ Environment
 language: kotlin
 repo: aoc2020
 status: active
-updated: 2023-01-25
+updated: 2023-03-19
 ```
